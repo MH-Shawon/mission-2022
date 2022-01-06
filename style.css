@@ -39,4 +39,35 @@ section{
 .banner-frst{
     background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
     padding-bottom: 10px;
+    
+  
+}
+
+.p-color{
+    color: black;
+    text-align: center;
+}
+.my-msn-22{
+    color: black;
+}
+.year{
+    color: magenta;
+}
+#centr{
+    text-align: center;
+}
+.flexible{
+    display: flex;
+}
+.box-1{
+    box-shadow: 10px 10px 25px cadetblue;
+    background-color: darkkhaki;
+}
+.box-2{
+    box-shadow: 10px 10px 25px  dimgray;
+    background-color: hotpink;
+}
+.box-3{
+    box-shadow: 10px 10px 25px rosybrown;
+    background-color: slateblue;
 }
