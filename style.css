@@ -1,0 +1,42 @@
+body{
+    color: white;
+    margin: 0;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Cormorant', serif;
+font-family: 'Crimson Pro', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive;}
+#vl{
+    border-left: 6px solid green;
+    height: 95px;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 0 ;
+   align-items: center;
+}
+.missn-22{
+    color: cyan;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-top: 30px;
+}
+.half-width img{
+    padding-bottom: 60%;
+    width: 60%;}
+.contact-button{
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    font-weight: 400;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.banner-frst{
+    background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
+    padding-bottom: 10px;
+}
