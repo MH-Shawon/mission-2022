@@ -1,6 +1,9 @@
 body{
     color: white;
-    margin: no;}
+    margin: no;
+    font-size: large;
+}
+    
     
 
 
@@ -45,7 +48,7 @@ section{
 .banner-frst{background-color: mediumaquamarine;
     
 background-color: salmon;
-  
+  border-radius: 10px;
 }
 
 .p-color{
@@ -101,20 +104,34 @@ background-color: salmon;
 .trd-sec-bg{
     background-color: cadetblue;
     padding-top: 60px;
+    border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 .frth-sec-bg{
     background-color: orchid;
    padding-top: 60px;
+   border-radius: 10px;
     
 }
 .yr{
     color: tomato;
 }
+
+.imag-width{
+    width: 50%;
+    border-radius: 10px;
+}
+.bonus-add{
+    background-color: cornflowerblue;
+    padding-top: 60px;
+    border-radius: 10px;
+}
 footer div{
     text-align: center;
     background-color: black;
     padding-top: 10px;
+    border-radius: 10px;
 }
 .img-pad{
     padding-left: 10px;
