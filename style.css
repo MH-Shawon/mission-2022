@@ -16,7 +16,7 @@ font-family: 'Yeseva One', cursive;}
    align-items: center;
 }
 .missn-22{
-    color: cyan;
+  color: darkmagenta;
 }
 section{
     display: flex;
@@ -36,16 +36,19 @@ section{
     border-radius: 5px;
     padding: 5px 20px;
 }
-.banner-frst{
-    background-image: url(./images/modern-futuristic-sci-fi-background.jpg);
-    padding-bottom: 10px;
+.banner-frst{background-color: mediumaquamarine;
     
+background-color: salmon;
   
 }
 
 .p-color{
     color: black;
+    text-align: justify;
+}
+.head-cntr{
     text-align: center;
+    color: black;
 }
 .my-msn-22{
     color: black;
@@ -70,4 +73,25 @@ section{
 .box-3{
     box-shadow: 10px 10px 25px rosybrown;
     background-color: slateblue;
+}
+.trd-sec-bg{
+    background-color: cadetblue;
+    padding-top: 60px;
+}
+
+.frth-sec-bg{
+    background-color: orchid;
+   padding-top: 60px;
+    
+}
+.yr{
+    color: tomato;
+}
+footer div{
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+}
+.img-pad{
+    padding-left: 10px;
 }
